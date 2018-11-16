@@ -1,8 +1,14 @@
 
 .idea\
+
 venv\
+
 .idea/*
+
 venv/*
+
 /.idea/*
+
 /venv/*
+
 .idea/workspace.xml
